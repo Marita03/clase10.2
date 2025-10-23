@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Velare",
+        "category": "2025",
+        "photo": "img/velare2.jpg",
+        "description": "Es una estructura de exhibición diseñada para instalarse al interior de un escaparate o window display, ubicado en la fachada de una tienda. Su función es enmarcar y destacar prendas y accesorios, transformando la vitrina en una experiencia visual que invita a detenerse y observar."
+    },
+    {
+        "title": "Pauu",
+        "category": "2023",
+        "photo": "img/pauu2.jpg",
+        "description": "Arnés con diseño ilustrado identitario de la Vega. Incluye sistema QR de identificación y registro histórico de cuidados de cada perro."
+    },
+    {
+        "title": "Külla-Mawida",
+        "category": "2024",
+        "photo": "img/arbolest2.jpg",
+        "description": "Cápsulas miniatura de árboles nativos de Huilo Huilo, que resaltan la singularidad de cada árbol."
+    },
+    {
+        "title": "Larún",
+        "category": "2023",
+        "photo": "img/larun2.jpg",
+        "description": "Sistema de soporte portátil diseñado para manipularse con los pies, ajustable a la anatomía del usuario."
+    },
+    {
+        "title": "Conmigo",
+        "category": "2025",
+        "photo": "img/conmigo2.jpg",
+        "description": "Prenda calmante para perros que viajan en la bodega del avión."
+    },
+    {
+        "title": "Boomerang",
+        "category": "2024",
+        "photo": "img/boomerang2.jpg",
+        "description": "Pieza hecha con biomateriales, ocupando borra de café."
+    },
+    {
+        "title": "Bolso",
+        "category": "2024",
+        "photo": "img/bolso2.jpg",
+        "description": "Confección de bolso para computador con serigrafía."
+    },
+    {
+        "title": "Polerón",
+        "category": "2025 - En proceso",
+        "photo": "img/poleron2.jpg",
+        "description": "Prenda de mi confección."
+    }
+]
