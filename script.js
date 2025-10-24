@@ -32,4 +32,4 @@ async function datos(raw) {
     }
 }
 
-datos("https://raw.githubusercontent.com/Marita03/clase10.1/refs/heads/main/datos.json");
+datos("https://raw.githubusercontent.com/Marita03/clase10.2/main/datos.json");
